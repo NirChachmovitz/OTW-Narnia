@@ -9,4 +9,3 @@ whoami
 narnia1
 cat /etc/narnia_pass/narnia1
 efeidiedae
-^C
